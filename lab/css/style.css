@@ -69,6 +69,11 @@ body {
     font-weight: bold;
 }
 
+.row {
+    padding: 10px;
+    background-color: #eee;
+    margin-bottom: 10px
+}
 /* =============
 Media Queries
 ============= */
