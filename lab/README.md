@@ -14,6 +14,11 @@ Below are four frontend frameworks to choose from. Pick whichever looks best to 
 - [Assembly](https://mapbox.com/assembly/documentation/)
 - [Bulma](https://bulma.io/)
 
+Additional select design resources:
+
+- [Font Awesome Icons](https://fontawesome.com/)
+- [Adobe Color](https://color.adobe.com)
+
 ### Required Components
 
 Your prototype must contain all three of the following components:
