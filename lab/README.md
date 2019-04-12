@@ -1,4 +1,4 @@
-# Week 10, Lab 1 — Frontend Frameworks
+# Week 12, Lab 1 — Frontend Frameworks
 
 ## Task
 

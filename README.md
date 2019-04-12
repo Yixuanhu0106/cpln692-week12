@@ -1,33 +1,22 @@
-# Week 10
+# Week 12
 
 *As always: make a copy of this repository to commit changes to*
 
 ## Class Outline
 
-### Introduction
-- Frontend Frameworks
-  - Components
-    - Button groups
-    - Input groups
-    - Glyphicons
-  - Javascript
-    - Tooltips
-    - Modal
-    - Dropdown
-  - CSS
-    - Grid
-    - Tables
-    - Forms
-- Carto
+- Discussion of "front end frameworks" (focused on bootstrap) and grids
+- A deeper look at some bootstrap components
+- Interactivity within frontend frameworks
+- Lab work and responses to final project proposals
+
 
 ### Frontend Frameworks
-- [Lab](lab/lab1)
+- [Lab](./lab)
 
-### Carto (depending on outcome of vote; otherwise, docker installation)
-- [Lab](lab/lab2)
 
 ## Homework Assignment
 
-- Complete [Lab](lab)
-- Complete [Final project proposal](assignment)
+- Complete [Lab](./lab)
+- Start working on the superficial aspects of your final; use one of the
+  frameworks covered in the lab
 
